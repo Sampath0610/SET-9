@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int main(void) {
 	int p[10],q[10],r[10];
 	int i;
